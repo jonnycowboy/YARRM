@@ -1,13 +1,10 @@
 # Bill of Materials
 ### Steel Parts
 
-Component Refs | Type            | Value      | Package | Qty | Digikey Part #
--------------- | --------------- | ---------- | ------- | :-: | ------------
-C1             | tant. capacitor | 47uF       | 1206    |  1  | 478-8180-1-ND
-C2,C4,C9       | capacitor       | 0.1uF      | 0603    |  3  | 311-1343-1-ND
-C3             | capacitor       | 1.0uF      | 0603    |  1  | 587-1242-1-ND
-C5,C8          | capacitor       | 4.7uF      | 0603    |  2  | 490-3297-1-ND
-C6,C7          | capacitor       | 18pF       | 0603    |  2  | 1276-1089-1-ND
+Component Refs   | Type                  | Details                                    | Qty | Source Link
+--------------   | ---------------       | ----------                                 | :-: | ------------
+ILL_ADBASE_1734  | 16ga steel plate      | Base with NEMA34 drive and NEMA17 rotation |  1  | HTTPS://ILLROBOT.COM/PARTS/ILL_ADBASE_1734
+ILL_ADARM_23_400 | 16ga steel 2"x2" tube | 400mm long arm, NEMA23 mount |  2  | HTTPS://ILLROBOT.COM/PARTS/ILL_ADARM_23_400
 
 
 ### 3D Printed Parts
@@ -38,9 +35,12 @@ BAT1           | connector       | coin cell  |         |  1  | BK-912-CT-ND
 
 ### Vitamins
 
-Component Refs | Type            | Details      | Qty | source link
--------------- | --------------- | ----------   | :-: | ------------
-C1             | bearing         | 8mmID-22mmOD |  1  | 478-8180-1-ND
-C2,C4,C9       | stepper         | NEMA34       |  2  | 311-1343-1-ND
-C3             | stepper         | NEMA23       |  2  | 587-1242-1-ND
-C5,C8          | stepper         | NEMA17       |  1  | 490-3297-1-ND
+Component Refs | Type            | Details       | Qty | Source Link
+-------------- | --------------- | ----------    | :-: | ------------
+608            | bearing         |  8mmID-22mmOD  |  12  | EBAY
+6904Z          | bearing         | 20mmID-37mmOD  |  6  | EBAY
+SHAFT_20_200   | shaft           | 20mmD-200mmL  |  1  | EBAY
+SHAFT_08_150   | shaft           |  8mmD-150mmL  |  2  | EBAY
+STEP34_TBD_2A  | stepper         | NEMA34        |  2  | EBAY
+STEP23_TBD_2A  | stepper         | NEMA23        |  2  | EBAY
+STEP17_TBD_2A  | stepper         | NEMA17        |  1  | EBAY 
