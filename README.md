@@ -1,5 +1,6 @@
 # YARRM
-Yet Another Robot aRM - a human-safe, open HW robotic arm with 5/7 DOF. Laser-cut steel and 3D Printed Part Construction.
+Yet Another Robot aRM - a human-safe, open HW robotic arm with 7 DOF. Laser-cut steel and 3D Printed Part (eventually molded) construction.
+Updated pictures and blog here: https://hackaday.io/project/2055-yarrm-7-dof-low-cost-robot-arm
 
 ![assembly render](https://raw.githubusercontent.com/jonnycowboy/YARRM/master/img/render2.png)
 
